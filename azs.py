@@ -2,7 +2,6 @@ import pprint
 import requests
 import typer
 
-from tabulate import tabulate
 from typing_extensions import Annotated
 from typing import Optional
 
