@@ -78,4 +78,3 @@ def events(card_id: str, date_start_unix: str, date_end_unix: str):
 
 if __name__ == "__main__":
     app()
-#    typer.run(main)
