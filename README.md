@@ -6,7 +6,7 @@ $ pip install -r requirements.txt
 
 ### Авторизация (получение и сохранение JWT токена в файл (либо токен можно прописать в файле 'jwt_token.txt' вручную)):
 
-$ python azs.py auth <LOGIN> <PASSWORD>
+$ python azs.py auth **LOGIN** **PASSWORD**
 
 ### Получение списка карт либо одной конкретной карты (необходимо указать ее ID):
 
